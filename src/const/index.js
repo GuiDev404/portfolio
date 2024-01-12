@@ -105,13 +105,6 @@ export const PROYECTOS = [
     tags: ["ReactJS", "Zustand", "ChakraUI"],
   },
   {
-    title: "App de sorteos (v2)",
-    description: "Aplicación para generar sorteos, guiando al usuario con pasos.",
-    img: "https://raw.githubusercontent.com/GuiDev404/app-sorteo-with-steps/main/src/assets/preview.jpeg",
-    links: ["https://github.com/GuiDev404/app-sorteo-with-steps"],
-    tags: ["ReactJS", "Zustand", "ChakraUI"],
-  },
-  {
     title: "Gestor de tareas",
     description: "Aplicacion simple pero poderosa, para gestionar tareas de una forma comoda",
     img: taskAppPreview,
