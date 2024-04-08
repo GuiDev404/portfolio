@@ -119,19 +119,14 @@ export const PROYECTOS = [
     tags: [".NET Core", "Razor", "MVC", "Bootstrap", "JS", "JQuery"],
   },
 
-  // {
-  //   title: "HEIMDAL ᛉ",
-  //   description: "HEIMDAL es una aplicación para saber el clima en tu ubicación o en cualquier lugar que desees.",
-  //   img: heimdalPreview,
-  //   links: ["https://github.com/GuiDev404/app-clima", "https://heimdal-clima.vercel.app/"],
-  //   tags: ["ReactJS", "API Geolocalización"],
-  // },
-
-   // {
-  //   title: "uGiffy",
-  //   description: "Buscador de gifs, creado con ReactJS, usando como servicio la API de Giphy",
-  //   img: "https://miro.medium.com/max/720/1*4NXg63IZjClSQ7hiCt_eXA.webp",
-  //   links: ["github", "live"],
-  //   tags: ["JS", "ReactJS", "CSS", "HTML"],
-  // },
+  {
+    title: "HEIMDAL ᛉ",
+    description: "HEIMDAL es una aplicación para saber el clima en tu ubicación o en cualquier lugar que desees.",
+    img: 'https://github.com/GuiDev404/heimdal-app/blob/main/public/vista_previa.jpeg?raw=true',
+    links: [
+      "https://github.com/GuiDev404/heimdal-app",
+      "https://heimdal-app.vercel.app/"
+    ],
+    tags: ["ReactJS", "TailwindCSS", "TypeScript", "SWR", "API Geolocalización"],
+  },
 ];
