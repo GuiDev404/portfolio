@@ -9,7 +9,8 @@ export const TECHS = [
   'HTML',
   'CSS',
   'TailwindCSS',
-  'Javascript',
+  'JavaScript',
+  'TypeScript',
   'ReactJS',
   'ChakraUI',
   'Bootstrap',
@@ -96,13 +97,6 @@ export const PROYECTOS = [
     img: "https://raw.githubusercontent.com/GuiDev404/app-sorteo/main/preview.png",
     links: ["https://github.com/GuiDev404/app-sorteo", "https://sortea-te.netlify.app/"],
     tags: ["ReactJS", "TailwindCSS", "HTML a img", "Lectura de .xlsx", "React Hook Form"],
-  },
-  {
-    title: "App de sorteos (v2)",
-    description: "Aplicación para generar sorteos, guiando al usuario con pasos.",
-    img: "https://raw.githubusercontent.com/GuiDev404/app-sorteo-with-steps/main/src/assets/preview.jpeg",
-    links: ["https://github.com/GuiDev404/app-sorteo-with-steps"],
-    tags: ["ReactJS", "Zustand", "ChakraUI"],
   },
   {
     title: "App de sorteos (v2)",
